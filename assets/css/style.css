@@ -202,8 +202,4 @@ aside p {
         display: flex;
         flex-direction: column;
     }
-    /* Change the header color */
-    header {
-      background: #772014;
-    }
-  }
+}
