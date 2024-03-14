@@ -95,3 +95,20 @@ aside {
     margin: 10px;
 } 
 
+#contact-nav {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 45px;
+}
+
+#contact-nav ul {
+    list-style-type: none;
+}
+
+#contact-nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
