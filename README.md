@@ -10,6 +10,6 @@ N/A
 
 ## Credits
 
-A link I watched to help me understand flex better
+A link to a video I watched to help me understand flex better
 
 https://youtu.be/phWxA89Dy94
